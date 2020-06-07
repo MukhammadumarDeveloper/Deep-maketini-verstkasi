@@ -1,0 +1,195 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+.main-section{
+  background-color: #f6f2f1;
+  padding-top: 20px;
+}
+.main{
+  padding-top: 40px;
+  font-size: 55px;
+  font-weight: bolder;
+  letter-spacing: 4px;
+}
+.matn{
+  width: 400px;
+  color: grey;
+}
+.bg-black{
+  background-color: #312f30;
+}
+.nav{
+  height: 80px;
+}
+.nav li{
+  line-height: 400%;
+  color: #fff;
+}
+.nav li a{
+  color: #fff;
+}
+.nav li a:hover{
+  background-color: #ff3f42;
+}
+.active{
+  background-color: #ff3f42;
+}
+.videoplayer{
+  width: 540px;
+  height: 340px;
+  padding-top: 40px;
+}
+.btn-qizil{
+    color: #fff;
+    background-color: #ff2d2e;
+    border-color: #ff2d2e;
+    width: 224px;
+    height: 53px;
+}
+/* main section tugadi! */
+.second-section{
+  background-color: #fff;
+}
+.title{
+  color: #565656;
+}
+.tepa{
+  padding-top: 114px;
+  font-weight: bold;
+}
+.matn2{
+  font-weight: normal;
+  padding-top: 20px;
+  padding-bottom: 23px;
+}
+.tugma{
+  width: 225px;
+  height: 52px;
+}
+.min-title{
+  font-size: 20px;
+  padding-top: 5px;
+  color: #6e6e6e;
+}
+.matn3{
+  font-weight: normal;
+}
+.line{
+  width: 131px;
+  height: 4px;
+  background-color: #ff2d2e;
+  margin: 20px auto;
+}
+.content{
+  margin-left: 25%;
+}
+.content a{
+  color: #595959;
+}
+.content a:hover{
+  color: #ff2d2e;
+  text-decoration: none;
+}
+.umum{
+  background-color: #f6efdd;
+  width: 300px;
+  height: 185px;
+  margin-left: 15px;
+}
+.list{
+  margin-left: 15%;
+  margin-top: 3%;
+}
+.meet{
+  margin-top: 138px;
+  margin-left: 15%;
+}
+.shakl{
+  width: 280px;
+  height: 370px;
+  background-color: #f6efdd;
+}
+.extitle{
+  font-size: 25px;
+  color: #595959;
+  padding-bottom: 10px;
+}
+.kichik{
+  width: 150px;
+  height: 150px;
+  background-color: #f6efdd;
+}
+.muk{
+  margin-right: 50px;
+}
+.next-section{
+  margin-top: 5%;
+  background-color: #f6efdd;
+  padding-bottom: 3%;
+}
+.oqtitle{
+  color: #fff;
+  padding-top: 5%;
+}
+#kiritish{
+  width: 416px;
+  margin: 2% 0 2% 20%;
+  padding: 2%;
+  display: inline-block;
+}
+.tugma{
+  width: 218px;
+  height: 50px;
+  margin-left: 10px;
+}
+.new-section{
+  padding-top: 4%;
+  padding-bottom: 5%;
+}
+.sarlavha{
+  color: #595959;
+  padding-bottom: 10px;
+}
+.matn-new{
+  color: grey;
+}
+.linesc{
+  width: 131px;
+  height: 3px;
+  background-color: #ff2d2e;
+  margin-bottom: 6%;
+}
+.kirit{
+  padding: 5px 10%;
+  background-color: #e5e5e5;
+  height: 55px;
+}
+.kiritsc{
+  padding: 3% 5%;
+  background-color: #e5e5e5;
+  height: 230px;
+  width: 100%;
+  border-radius: 5px;
+}
+.tugmasc{
+  width: 100%;
+  margin-top: 22px;
+}
+.qora{
+  width: 470px;
+  height: 390px;
+  background-color: #2d2d2d;
+  margin-top: 50%;
+  margin-left: 22%;
+  padding-top: 20%;
+  padding-left: 10%;
+  color: #fff;
+}
+.bg-kulrang{
+  background-color: #312f30;
+  padding: 1% 0;
+}
+.foot-text {
+  padding-top: 1%;
+}
